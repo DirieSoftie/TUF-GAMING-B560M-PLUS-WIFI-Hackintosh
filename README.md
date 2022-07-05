@@ -1,5 +1,7 @@
 # TUF-GAMING-B560M-PLUS-WIFI-Hackintosh-OpenCore
 
+![Big Sur](image1.png)
+
 OpenCore config for my Rocket Lake desktop that i recently built.
 
 # Disclaimer:
