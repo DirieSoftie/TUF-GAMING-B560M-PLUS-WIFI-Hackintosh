@@ -4,7 +4,7 @@ OpenCore config for my Rocket Lake desktop that i recently built.
 
 # Disclaimer:
 * This is not a guide.
-* I am by no any means a pro at hackintoshing. This is my first time. There is still a lot of things to fix.
+* I am by no means a pro at hackintoshing. This is my first time. There is still a lot of things to fix.
 * Everything works well on Big Sur. I tried Monterey and a lot of things broke or stopped working, I also experienced random freezes.
 
 # Info
