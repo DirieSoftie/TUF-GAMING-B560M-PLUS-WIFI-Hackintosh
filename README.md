@@ -34,6 +34,7 @@ What's working:
 
 What's *NOT* working:
 
+* AppleTV+ Playback (too lazy to fix)
 * Bluetooth
 * AirDrop/Handoff
 
