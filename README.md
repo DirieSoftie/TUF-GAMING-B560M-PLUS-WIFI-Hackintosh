@@ -40,6 +40,13 @@ What's *NOT* working:
 * Won't boot with 2 displays connected. I have no idea why this happens, dual displays works fine if I plug it in after booting. If anyone has a fix please let me know.
 * Monterey boots but has problems. (need more testing and troubleshooting)
 
+# Credit:
+
+* [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/)
+* [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
+* [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
+* Initial config based on :https://github.com/uranium81/hackintosh-intel-11th-gen/
+
 
 
 
