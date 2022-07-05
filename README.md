@@ -48,7 +48,7 @@ What's *NOT* working:
 * [OpenCore Legacy Patcher](https://github.com/dortania/OpenCore-Legacy-Patcher/)
 * [OpenCorePkg](https://github.com/acidanthera/OpenCorePkg)
 * [Dortania's OpenCore Install Guide](https://dortania.github.io/OpenCore-Install-Guide/)
-* Initial config based on :https://github.com/uranium81/hackintosh-intel-11th-gen/
+* Initial config based on: https://github.com/uranium81/hackintosh-intel-11th-gen/
 
 
 
