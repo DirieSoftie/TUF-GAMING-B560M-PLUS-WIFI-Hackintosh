@@ -4,6 +4,9 @@
 
 OpenCore config for my Rocket Lake desktop that i recently built.
 
+# Is this project dead?
+* Will update once i get a compatible gpu
+
 # Disclaimer:
 * This is not a guide.
 * I am by no means a pro at hackintoshing. This is my first time. There is still a lot of things to fix.
